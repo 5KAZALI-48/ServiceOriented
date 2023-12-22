@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Staff>
+  <User>
+    <Username>admin1</Username>
+    <Password>test1</Password>
+  </User>
+  <User>
+    <Username>admin2</Username>
+    <Password>test2</Password>
+  </User>
+  <User>
+    <Username>admin3</Username>
+    <Password>test3</Password>
+  </User>
+  <User>
+    <Username>TA</Username>
+    <Password>Cse44598!</Password>
+  </User>
+  <User>
+    <Username>user4</Username>
+    <Password>test4</Password>
+  </User>
+  <User>
+    <Username>frk0707</Username>
+    <Password>07480748</Password>
+  </User>
+  <User>
+    <Username>grader</Username>
+    <Password>123456</Password>
+  </User>
+</Staff>

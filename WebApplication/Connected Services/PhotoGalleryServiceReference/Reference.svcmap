@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="fc446777-f21d-4669-ba6f-9d8f62bf7347" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar4.fulton.asu.edu/Page8/Service1.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="56f1c47f-a056-4515-955b-bd18a0774ab8" SourceId="1" SourceUrl="http://webstrar4.fulton.asu.edu/Page8/Service1.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service11.xsd" MetadataType="Schema" ID="e5cc1ffa-a21e-4974-a278-fef8c1108687" SourceId="1" SourceUrl="http://webstrar4.fulton.asu.edu/Page8/Service1.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service12.xsd" MetadataType="Schema" ID="7ce8581c-5fb7-4fec-9286-8397ee1d444e" SourceId="1" SourceUrl="http://webstrar4.fulton.asu.edu/Page8/Service1.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service1.disco" MetadataType="Disco" ID="fb7cea6f-7c69-4d88-a25e-ca39da048573" SourceId="1" SourceUrl="http://webstrar4.fulton.asu.edu/Page8/Service1.svc?disco" />
+    <MetadataFile FileName="PhotoGalleryService.wsdl" MetadataType="Wsdl" ID="9a28820b-8b89-43c7-8e6d-cba7c72f0fc5" SourceId="1" SourceUrl="http://webstrar4.fulton.asu.edu/Page8/Service1.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
